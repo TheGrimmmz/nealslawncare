@@ -1,0 +1,20 @@
+img {
+  width: 200px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: rgb(155, 169, 127);
+}
+
+nav a {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+nav .active {
+  color: black;
+  font-weight: bold;
+}

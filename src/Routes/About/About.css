@@ -1,0 +1,25 @@
+.about-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.about-title {
+  text-align: center;
+  padding: 20px;
+  text-shadow: 2px 2px 4px rgb(155, 169, 127);
+}
+
+.about-card {
+  width: 800px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+h4 {
+  color: darkolivegreen;
+}
+
+.policy-title {
+  text-shadow: 2px 2px 4px rgb(155, 169, 127);
+}

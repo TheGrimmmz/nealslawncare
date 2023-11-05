@@ -1,0 +1,29 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 900px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+.home-title {
+  font-size: 70px;
+  margin: 0;
+  text-shadow: 4px 4px 4px rgb(155, 169, 127);
+}
+
+.contact-container {
+  padding: 20px;
+}
+
+.contact-info {
+  padding: 10px;
+}
+
+.contact-title {
+  text-align: center;
+}
