@@ -33,7 +33,7 @@ button {
 @media (max-width: 820px) {
  .home-container {
     margin: auto;
-    width: 50%;
+    width: 75%;
     border: none;
   }
   .carousel {
