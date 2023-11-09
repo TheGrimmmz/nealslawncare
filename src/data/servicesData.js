@@ -2,7 +2,7 @@ const services = [
     {
       "img": "https://www.deere.com/assets/images/region-4/industries/landscaping-and-grounds-care/mcs/r4f071149-mcs-hero.jpg",
       "title": "MOWING",
-      "description": "With our weekly lawn mowing service, you will receive professional LAWN MOWING, TRIMMING around all EDGING, boarders, trees and obstacles.  We also include weekly edging along driveways and sidewalks.  Once all services are completed, Brunner Lawn Care will clean-up any lawn mowing clippings, and blow other debris from the service off driveways, sideways, decks and patios. We also haul away the grass clipping so you’re not left with a lot of dead grass that would other wise be tracked into your home."
+      "description": "With our weekly lawn mowing service, you will receive professional LAWN MOWING, TRIMMING around all EDGING, boarders, trees and obstacles.  We also include weekly edging along driveways and sidewalks.  Once all services are completed, Neal's Lawn Care will clean-up any lawn mowing clippings, and blow other debris from the service off driveways, sideways, decks and patios."
     },
     {
       "img": "https://149673858.v2.pressablecdn.com/wp-content/uploads/2020/06/Aeration-Blend-1-4298X1737-pixels-scaled.jpg",
