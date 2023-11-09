@@ -50,6 +50,16 @@ button {
   }
 }
 
+@media (max-width: 550px) {
+ .home-container {
+    width: 400px;
+  }
+  .carousel {
+    width: 390px;
+    height: 180px;
+  }
+}
+
 @media (max-width: 420px) {
  .home-container {
     width: 400px;
