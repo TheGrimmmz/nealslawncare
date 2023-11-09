@@ -1,7 +1,7 @@
 import React from 'react'
 // import Footer from '../../Footer/Footer'
 import { Carousel } from '../../Components/Carousel/Carousel'
-import { slides } from '../../json/carouselData.json'
+import slides from '../../data/carouselData'
 import './Gallery.css'
 
 function Gallery() {

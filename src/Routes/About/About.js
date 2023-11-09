@@ -1,5 +1,5 @@
 import React from 'react'
-import {data} from '../../json/aboutData.json'
+import aboutData from '../../data/aboutData'
 import Policy from '../../Components/Policy/Policy'
 import './About.css'
 
@@ -8,7 +8,7 @@ function About() {
     <div className='about-container'>
       <div className='about-card'>
         <h1 className='about-title'>SERVICE POLICY</h1>
-        <Policy data={data}/>
+        <Policy data={aboutData}/>
       </div>
     </div>
   )

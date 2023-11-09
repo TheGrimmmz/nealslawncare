@@ -1,5 +1,4 @@
-{
-  "slides": [
+const slides = [
     {
       "src": "https://www.pictureperfectlandscapes.com/files/account/images/content/content-newly-mowed-lawn.jpg",
       "alt": "yard image"
@@ -33,4 +32,5 @@
       "alt": "before and after image"
     }
   ]
-}
+
+export default slides

@@ -1,5 +1,5 @@
 import React from 'react'
-import {services} from '../../json/services.json'
+import services from '../../data/servicesData'
 import Service from '../../Components/Service/Service'
 import './Services.css'
 

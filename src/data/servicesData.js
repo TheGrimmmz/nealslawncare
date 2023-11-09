@@ -1,5 +1,4 @@
-{
-  "services": [
+const services = [
     {
       "img": "https://www.deere.com/assets/images/region-4/industries/landscaping-and-grounds-care/mcs/r4f071149-mcs-hero.jpg",
       "title": "MOWING",
@@ -76,4 +75,5 @@
       "description": "Snow removal is the process of clearing snow and ice from roads, sidewalks, and other surfaces. It's essential for safety and accessibility, often involving equipment like snowplows, snow blowers, shovels, and de-icing materials. Timeliness is important to prevent snow and ice buildup, and regulations may apply for public areas. In some cases, professional services are hired for efficient snow removal."
     }
   ]
-}
+
+export default services

@@ -1,5 +1,4 @@
-{
-  "data": [
+const data = [
     {
       "title": "LAWN SERVICE",
       "description": "Lawn Service is done weekly throughout the season. Lawn mowing service includes lawn mowing, trimming, edging, and blowing. Grass areas in the front, back, and sides of your yard will be mowed in different directions in order to avoid ruts or damage to your lawn. Grass or weeds growing inside of beds will not be cut or tampered with in order to avoid damage to plant beds and our machines or employees. Trimming is done around beds, fences, and trees. Edging is done along sidewalks and driveways in the front and back yard. Neal's Lawn Care makes sure to blow clippings from sidewalks and driveways once the service has been completed."
@@ -49,4 +48,5 @@
         "description": "We always try to finish our routes, even on semi rainy days. If we are unable to complete your service due to a heavy rain fall, we will adjust the rest of the week’s schedule by one day so that we can service all remaining lawns the day after their scheduled day. To avoid excessively long grass, we recommend allowing us to mow even when the lawn is a little wet."
     }
   ]
-}
+
+  export default data
