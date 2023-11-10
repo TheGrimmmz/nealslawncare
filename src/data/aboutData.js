@@ -9,7 +9,7 @@ const data = [
     },
     {
         "title": "GATES AND PETS",
-        "description": "We prefer that all your pets be kept indoors, and all gates unlocked on your mowing day. If you have a unique situation with a pet or gate please let us know, and we will accommodate you. EDU Lawn Service will not mow if pets are unsecured in a yard, front or back. Our crews are very careful about closing gates before they leave, but we do not guarantee that a pet will not escape from the yard, therefore, you accept our service with this provision. If we arrive to your property and cannot mow the back yard due to a pet in the yard or a locked gate, you will still be charged. Neal's Lawn Care is not responsible for lost or injured pets."
+        "description": "We prefer that all your pets be kept indoors, and all gates unlocked on your mowing day. If you have a unique situation with a pet or gate please let us know, and we will accommodate you. Neal's Lawn Care will not mow if pets are unsecured in a yard, front or back. Our crews are very careful about closing gates before they leave, but we do not guarantee that a pet will not escape from the yard, therefore, you accept our service with this provision. If we arrive to your property and cannot mow the back yard due to a pet in the yard or a locked gate, you will still be charged. Neal's Lawn Care is not responsible for lost or injured pets."
     },
     {
         "title": "ITEMS IN THE YARD",
@@ -37,7 +37,7 @@ const data = [
     },
     {
         "title": "DAMAGE",
-        "description": "If Neal's Lawn Care has damages a sprinkler head please contact us anytime. We will repair or replace the damage as soon as possible."
+        "description": "If Neal's Lawn Care has damaged anything (etc. sprinkler head) please contact us anytime. We will repair or replace the damage as soon as possible."
     },
     {
         "title": "NOTICE POLICY",
