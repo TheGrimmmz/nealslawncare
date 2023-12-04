@@ -10,7 +10,7 @@ function Contact() {
       <div className='contact-info'>
         <h3>Contact Info</h3>
         <p>EMAIL: <a href='mailto:nealslawncare8@gmail.com'>nealslawncare8@gmail.com</a></p>
-        <p>PHONE: <a href='tel:1-618-615-3973'>1-618-615-3973</a></p>
+        <p>PHONE: <a href='tel:1-618-615-3973'>1-618-615-2973</a></p>
         <p>FACEBOOK: <a href='https://m.facebook.com/profile.php/?id=100093494920613&name=xhp_nt__fb__action__open_user'>NEAL'S LAWN CARE</a></p>
       </div>
     </div>
